@@ -1,0 +1,11 @@
+﻿  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+N:\Menu\aimbot\aimbot\vector.h(23): warning C4172: returning address of local variable or temporary
+N:\Menu\aimbot\aimbot\vector.h(27): warning C4172: returning address of local variable or temporary
+N:\Menu\aimbot\aimbot\vector.h(19): warning C4172: returning address of local variable or temporary
+N:\Menu\aimbot\aimbot\vector.h(15): warning C4172: returning address of local variable or temporary
+N:\Menu\aimbot\aimbot\vector.h(32): warning C4172: returning address of local variable or temporary
+  All 78 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  aimbot.vcxproj -> N:\Menu\aimbot\Release\aimbot.exe
